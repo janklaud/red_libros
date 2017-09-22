@@ -1,0 +1,117 @@
+C:\Red_libros\Red_libros\bin\ApplicationInsights.config
+C:\Red_libros\Red_libros\bin\roslyn\csc.exe
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Red_libros\Red_libros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Red_libros\Red_libros\bin\roslyn\System.Collections.Immutable.dll
+C:\Red_libros\Red_libros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Red_libros\Red_libros\bin\roslyn\vbc.exe
+C:\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe
+C:\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe.config
+C:\Red_libros\Red_libros\bin\Red_libros.dll.config
+C:\Red_libros\Red_libros\bin\Red_libros.dll
+C:\Red_libros\Red_libros\bin\Red_libros.pdb
+C:\Red_libros\Red_libros\bin\Capa_Entidades.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.Web.dll
+C:\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.dll
+C:\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.dll
+C:\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Red_libros\Red_libros\bin\Capa_Entidades.pdb
+C:\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.xml
+C:\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Red_libros\Red_libros\bin\Microsoft.AI.Web.xml
+C:\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.xml
+C:\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.xml
+C:\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Red_libros\Red_libros\obj\Debug\Red_libros.csprojResolveAssemblyReference.cache
+C:\Red_libros\Red_libros\obj\Debug\Red_libros.dll
+C:\Red_libros\Red_libros\obj\Debug\Red_libros.pdb
+C:\Red_libros\Red_libros\bin\Capa_ReglasNegocio.dll
+C:\Red_libros\Red_libros\bin\Capa_Datos.dll
+C:\Red_libros\Red_libros\bin\Capa_ReglasNegocio.pdb
+C:\Red_libros\Red_libros\bin\Capa_Datos.pdb
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\ApplicationInsights.config
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\csc.exe
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\vbc.exe
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Red_libros.dll.config
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Red_libros.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Red_libros.pdb
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_Entidades.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_ReglasNegocio.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.Web.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_Datos.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_Entidades.pdb
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_ReglasNegocio.pdb
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.Web.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\bin\Capa_Datos.pdb
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\obj\Debug\Red_libros.csprojResolveAssemblyReference.cache
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\obj\Debug\Red_libros.dll
+C:\Users\JUNCLUOD\Desktop\Nueva carpeta (2)\Red_libros\Red_libros\obj\Debug\Red_libros.pdb
+C:\line 3\Red_libros\Red_libros\bin\ApplicationInsights.config
+C:\line 3\Red_libros\Red_libros\bin\roslyn\csc.exe
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\line 3\Red_libros\Red_libros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\line 3\Red_libros\Red_libros\bin\roslyn\System.Collections.Immutable.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\System.Reflection.Metadata.dll
+C:\line 3\Red_libros\Red_libros\bin\roslyn\vbc.exe
+C:\line 3\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe
+C:\line 3\Red_libros\Red_libros\bin\roslyn\VBCSCompiler.exe.config
+C:\line 3\Red_libros\Red_libros\bin\Red_libros.dll.config
+C:\line 3\Red_libros\Red_libros\bin\Red_libros.dll
+C:\line 3\Red_libros\Red_libros\bin\Red_libros.pdb
+C:\line 3\Red_libros\Red_libros\bin\Capa_Entidades.dll
+C:\line 3\Red_libros\Red_libros\bin\Capa_ReglasNegocio.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.Agent.Intercept.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.Web.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.dll
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\line 3\Red_libros\Red_libros\bin\Capa_Datos.dll
+C:\line 3\Red_libros\Red_libros\bin\Capa_Entidades.pdb
+C:\line 3\Red_libros\Red_libros\bin\Capa_ReglasNegocio.pdb
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.DependencyCollector.xml
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.Web.xml
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.AI.WindowsServer.xml
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.ApplicationInsights.xml
+C:\line 3\Red_libros\Red_libros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\line 3\Red_libros\Red_libros\bin\Capa_Datos.pdb
+C:\line 3\Red_libros\Red_libros\obj\Debug\Red_libros.csprojResolveAssemblyReference.cache
+C:\line 3\Red_libros\Red_libros\obj\Debug\Red_libros.dll
+C:\line 3\Red_libros\Red_libros\obj\Debug\Red_libros.pdb
